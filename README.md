@@ -40,7 +40,7 @@ The model achieved **81.74% testing accuracy**. Its recall of 100% indicates tha
 
 The dataset was obtained from Kaggle.
 
-**Dataset Link:** Add the original Kaggle dataset URL here.
+**Dataset Link:** https://www.kaggle.com/datasets/bsugiarto9/loan-status-prediction-with-added-nans
 
 ## 🚀 Project Status
 
